@@ -1,0 +1,51 @@
+.banner-full img{
+
+    margin-left: -120px;
+    margin-right: -130px;
+    margin-top: -55px;
+
+
+
+}
+
+.fs-3{
+    margin-top: 30px;
+    margin-left: 8px;
+    color:rgb(87, 156, 156);
+
+
+    
+}
+
+
+.btn-info{
+    background-color:rgb(212, 124, 139)
+}
+
+.dropdown-menu-dark{
+    background-color: rgb(137, 186, 187);
+}
+
+.dropdown-menu-dark1{
+   color: cadetblue;
+}
+
+.btn-group{
+
+    border-color: aquamarine;
+    color: azure;
+}
+
+.mb-2{
+    color: rgb(87, 156, 156);
+}
+
+.navbar-brand{
+    margin-left: 200px;
+    margin-right: 500px;
+    font-size: 30px;
+}
+
+.dropdown-menu-dark1 {
+    margin-left: -100px;
+}
